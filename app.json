@@ -14,7 +14,7 @@
   "success_url": "/setup",
   "env": {},
   "addons": [
-    "heroku-JAWSDB_MARIA "
+    "JAWSDB_MARIA "
   ],
   "buildpacks": [
     {
