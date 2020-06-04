@@ -14,7 +14,7 @@
   "success_url": "/setup",
   "env": {},
   "addons": [
-    "JAWSDB_MARIA "
+    "jawsdb:kitefin "
   ],
   "buildpacks": [
     {
